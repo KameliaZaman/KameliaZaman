@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Kamelia Zaman Moon</h1>
+<h1 align="center">Hey there! I am Kamelia Zaman Moon</h1>
 <p align="center">
   <em>
     I am a <b>Fourth year</b> undergraduate in <b>Computer Science & Engineering</b> from <b>Jahangirnagar University, Bangladesh</b></a>. <br>
