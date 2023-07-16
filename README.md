@@ -1,7 +1,6 @@
 <h1 align="center">Hey there! I am Kamelia Zaman Moon</h1>
 <p align="center">
   <em>
-    I am a <b>Fourth year</b> undergraduate in <b>Computer Science & Engineering</b> from <b>Jahangirnagar University, Bangladesh</b></a>. <br>
     <b>A passionate learner</b> and a <b>Tech Enthusiast</b>
   </em> 
 </p>
